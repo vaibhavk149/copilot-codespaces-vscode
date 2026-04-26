@@ -55,7 +55,7 @@ GitHub Copilot can help you code by offering autocomplete-style suggestions. You
    - Scroll down and click the **Create repository** button at the bottom of the form.
 4. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<footer>
+<footer> 
 
 <!--
   <<< Author notes: Footer >>>
